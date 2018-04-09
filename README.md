@@ -25,7 +25,7 @@ Bu modülde ;
 - Adres sorgulama (geocoding), 
 - Enlem boylam ile koordinata git işlemleri yapılabilir.
 
-![MAS Harita Modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/harita%20modul.jpg?raw=true)
+![MAS - Harita Modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/harita-modulu-small.png?raw=true)
 ## Kadastro Modülü
 
 Bu modülde;
@@ -35,17 +35,17 @@ Bu modülde;
 - Seçili alana ait veriyi farklı formatlarda indirme 
 - İmar dağıtım verisi (NIV) indirme işlemleri yapılabilir.
 
-![MAS Kadastro modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/kadastro-modulu.jpg?raw=true)
+![MAS - Kadastro Modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/harita-modulu-small.png?raw=true)
 ## GEO Raster Modülü
 CAD veya GIS uygulamalarında internet bağlantısına ihtiyaç duymadan ücretsiz altlık haritaların koordinatlı Raster olarak kullanılmasını sağlar. Görüntülenen harita ekranını, sol üst köşe ve sağ alt köşe koordinatları girilerek koordinatların kapsadığı alanı veya harita ekranından seçilen alanı koordinatlı veya koordinatsız Raster olarak indirme imkânı sağlar
 
-![MAS Georaster modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/georaster-modul.jpg?raw=true)
+![MAS - Geo raster modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/georaster-modulu-small.png?raw=true)
 
 ## Tapu Sorgu Modülü
 Web Servisleri üzerinden alınan tapu bilgilerinin tüm fonksiyonlar kullanılarak sorgulanması ve raporlanmasını sağlar. Temel olarak üç sorgu tipi vardır. Bunlar Taşınmaz, Kişi veya Gerçek Kişi sorgularıdır. Ancak bu üç temel sorgulama yönteminin her biri için birden fazla kriterde sorgu yapmak mümkündür. Bu modülde temel kullanımlar için Basit sorgulama, çok amaçlı kullanımlar için ise gelişmiş sorgulama imkanı sağlanmıştır.
 
-![MAS Tapu sorgu modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/tapu-modulu.jpg?raw=true)
+![MAS - Tapu Sorgu Modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/tapu-mod%C3%BCl%C3%BC-small.png?raw=true)
 
 ## Tapu Analiz Modülü
 Web Servisleri üzerinden alınan tapu bilgilerinin, tüm fonksiyonlar kullanılarak listelenmesini ve indirilmesini sağlar.
-![MAS Tapu analiz modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/tapu-analiz.jpg?raw=true)
+![MAS - Tapu Analiz Modülü](https://github.com/tapukadastro/mulkiyetanalizsistemi/blob/master/screens/tapu-analiz-small.png?raw=true)
