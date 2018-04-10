@@ -1,6 +1,6 @@
 # Mülkiyet Analiz Sistemi - MAS
 
-Tapu ve Kadastro Genel Müdürlüğünün anlaşmalı olduğu paydaşları (Belediyeler, Kamu Kurum ve Kuruluşları) ile web servisleri üzerinden paylaştığı verilerin en doğru ve hızlı bir biçimde kullanılmasını sağlayan bir yazılımdır.
+Tapu ve Kadastro Genel Müdürlüğünün anlaşmalı olduğu paydaşları (Belediyeler, Kamu Kurum ve Kuruluşları) ile web servisleri üzerinden paylaştığı verilerin en doğru ve hızlı bir biçimde kullanılmasını sağlayan tamamen özgür bir yazılımdır.
 
 
 ## Genel Özellikler
